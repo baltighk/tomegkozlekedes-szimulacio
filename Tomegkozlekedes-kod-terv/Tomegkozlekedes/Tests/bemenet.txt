@@ -1,0 +1,12 @@
+Jarmu;Villamos;1;2010;Belvaros;10000000
+Jarmu;Autobusz;2;2005;Kulvaros;8000000
+Jarmu;Trolibusz;3;2012;Vegyes;9500000
+Ceg;Szervizmester Kft
+Ceg;Javitomester Bt
+Szerviz;1;Javitomester Bt.;2024-01-10;2024-01-15;Javitas
+Munkafolyamat;1;Motorcsere;1200000
+Munkafolyamat;1;Festés;300000
+Szerviz;2;Szervizmester Kft.;2023-11-01;2023-11-11;Idoszakos
+Munkafolyamat;2;Átvizsgálás;100000
+Szerviz;3;Szervizmester Kft.;2024-02-20;;Javitas
+Munkafolyamat;3;Akkumulátor csere;500000
